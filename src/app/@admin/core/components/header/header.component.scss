@@ -1,0 +1,17 @@
+@import "../../../pages/admin.component.scss";
+
+button#menu-toggle{
+    background-color: transparent;
+    color: #1b262c;
+    border: 1px solid #1b262c;
+}
+
+.navbar{
+    border-bottom: 0px !important;
+}
+
+.shadow{
+    -webkit-box-shadow: 0px 4px 8px 2px rgba(61,61,61,0.65);
+    -moz-box-shadow: 0px 4px 8px 2px rgba(61,61,61,0.65);
+    box-shadow: 0px 4px 8px 2px rgba(61,61,61,0.65);
+}
